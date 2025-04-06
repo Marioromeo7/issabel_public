@@ -1,7 +1,0 @@
-# This is an example of a port file. This file is syntax compatible
-# with Taylor UUCP (not HDB, not anything else). Please check uucp
-# documentation if you are not sure how to configure Taylor UUCP config files.
-# Edit the file as appropriate for your system, there are sample files
-# in /usr/share/doc/uucp/sample
-
-# Everything after a '#' character is a comment.

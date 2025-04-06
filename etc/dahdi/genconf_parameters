@@ -1,4 +1,0 @@
-echo_can oslec
-bri_sig_style bri
-context_lines from-pstn
-context_phones default

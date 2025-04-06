@@ -1,2 +1,0 @@
-%(member)s hat die Liste %(listname)s erfolgreich abonniert.
-%(whence)s

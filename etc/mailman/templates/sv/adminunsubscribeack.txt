@@ -1,3 +1,0 @@
-%(member)s är nu borttagna från listan %(listname)s.
-%(whence)s
-

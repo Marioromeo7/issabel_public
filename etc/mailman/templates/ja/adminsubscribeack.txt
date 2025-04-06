@@ -1,3 +1,0 @@
-%(member)s さんが %(listname)s に入会しました。
-%(whence)s
-

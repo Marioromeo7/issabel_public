@@ -1,3 +1,0 @@
-%(member)s έχουν διαγραφεί από τη %(listname)s.
-%(whence)s
-

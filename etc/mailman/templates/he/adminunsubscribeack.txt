@@ -1,3 +1,0 @@
-%(member)s נמחק מ- %(listname)s.
-%(whence)s
-

@@ -1,3 +1,0 @@
-%(member)s is verwijderd van de %(listname)s maillijst.
-%(whence)s
-

@@ -1,3 +1,0 @@
-%(member)s ist nicht mehr Mitglied der Liste %(listname)s.
-%(whence)s
-

@@ -1,4 +1,0 @@
-%(member)s sëkmingai prisijungë prie %(listname)s.
-%(whence)s
-
-
